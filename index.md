@@ -3,9 +3,9 @@
 ![](DaDoEval200.png)
 
 - [Subtasks](#subtasks)
-- [Data and Annotation Description](#data)
+- [Data and Annotation Description](#data-and-annotation-description)
 - [Evaluation](#evaluation)
-- [How to participate](#participate)
+- [How to participate](#how-to-participate)
 - [References](#references)
 
 We propose the task of assigning a temporal span to a document, i.e. recognising when a document was issued. The task has already been addressed in other languages, namely French, English, Polish, also in the framework of shared tasks, see for example the DÉfi Fouille de Textes (DEFT) 2010 and 2011 challenges (Grouin, 2010; Grouin, 2011), the SemEval-2015 task on Diachronic Text Evaluation (Popescu and Strapparava, 2015) and the RetroC challenge (Graliński, 2017). This task is relevant because it can play a role in document retrieval, summarisation, event detection, etc. It is also an important task per se, since it can be used to process large archival collections. In particular, when some documents in a collection have not been dated, supervised approaches could be applied to learn from the documents with a date which time span can be assigned to those who are not provided with temporal metadata.
