@@ -44,6 +44,12 @@ Once the system has produced the results for the task over the test set, partici
 For example: *1_inDomain_fbk_1* would be the first run of a team called *fbk* for the first sub-task with the in-domain data. *2_outDomain_fbk_1* would be the second run of a team called *fbk* for the second sub-task with the out-of-domain data.
 - send the file to the following email address: XXX, using the subject “DaDoEval Submission: teamName”.
 
+### Organizers
+- Stefano Menini (Fondazione Bruno Kessler) 
+- Giovanni Moretti (Università Cattolica del Sacro Cuore di Milano)
+- Rachele Sprugnoli (Università Cattolica del Sacro Cuore di Milano)
+- Sara Tonelli (Fondazione Bruno Kessler)
+
 
 ### References
 - Graliński, F., Jaworski, R., Borchmann, Ł., & Wierzchoń, P. (2017). The RetroC challenge: how to guess the publication year of a text?. In Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage, pp. 29-34.
