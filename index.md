@@ -34,6 +34,12 @@ Final results will be calculated in terms of accuracy and precision.
 ### How to participate
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
 
+Once the system has produced the results for the task over the test set, participants have to follow these instructions for completing your submission:
+- name the runs with the following filename format: *subtask_domainType_teamName_systemID*.
+For example: *1_inDomain_fbk_1* would be the first run of a team called *fbk* for the first sub-task with the in-domain data. *2_outDomain_fbk_1* would be the second run of a team called *fbk* for the second sub-task with the out-of-domain data.
+- send the file to the following email address: XXX, using the subject “DaDoEval Submission: teamName”.
+
+
 ### References
 - Graliński, F., Jaworski, R., Borchmann, Ł., & Wierzchoń, P. (2017). The RetroC challenge: how to guess the publication year of a text?. In Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage, pp. 29-34.
 - Grouin, C., Forest, D., Da Sylva, L. and Zweigenbaum, P. (2010). Présentation et résultats du défi fouille de texte DEFT2010 Où et quand un article de presse a-t-il été écrit? In Actes du septième DÉfi Fouille de Textes.
