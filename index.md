@@ -10,7 +10,7 @@ Along this line, we proposed our task taking Alcide De Gasperi’s corpus of pub
 DaDoEval will include two sub-tasks on the same test set:
 1. *Coarse-grained classification*: Participants will be asked to assign each document in the test set to one of the main time periods that historians have identified in De Gasperi’s life, reported in the table below. Each document in the training set will be labeled with one of the five periods. 
 
-| PERIOD A       | PERIOD B                         | PERIOD C       | PERIOD D                              | PERIOD E                       |
+| A       | B                         | C       | D                              | E                       |
 |----------------|----------------------------------|----------------|---------------------------------------|--------------------------------|
 | Habsburg years | Beginning of political activity | Internal exile | From fascism to the Italian Republic | Building the Italian Republic |
 | 1901-1918      | 1919-1926                        | 1927-1942      | 1943-1947                             | 1948-1954                      |
