@@ -1,39 +1,17 @@
-## Welcome to GitHub Pages
+## Dating Document Evaluation
 
 ![](DaDoEval-.png)
 
-You can use the [editor on GitHub](https://github.com/dhfbk/DaDoEval_2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We propose the task of assigning a temporal span to a document, i.e. recognising when a document was issued. The task has already been addressed in other languages, namely French, English, Polish, also in the framework of shared tasks, see for example the DÉfi Fouille de Textes (DEFT) 2010 and 2011 challenges (Grouin, 2010; Grouin, 2011), the SemEval-2015 task on Diachronic Text Evaluation (Popescu and Strapparava, 2015) and the RetroC challenge (Graliński, 2017). This task is relevant because it can play a role in document retrieval, summarisation, event detection, etc. It is also an important task per se, since it can be used to process large archival collections. In particular, when some documents in a collection have not been dated, supervised approaches could be applied to learn from the documents with a date which time span can be assigned to those who are not provided with temporal metadata.
+Along this line, we proposed our task taking Alcide De Gasperi’s corpus of public documents (Tonelli et al., 2019) as a use case.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Task and Subtasks
 
-### Markdown
+DaDoEval will include two sub-tasks on the same test set:
+1. *Coarse-grained classification*: Participants will be asked to assign each document in the test set to one of the main time periods that historians have identified in De Gasperi’s life, reported in the table below. Each document in the training set will be labeled with one of the five periods. 
+| PERIOD A       | PERIOD B                         | PERIOD C       | PERIOD D                              | PERIOD E                       |
+|----------------|----------------------------------|----------------|---------------------------------------|--------------------------------|
+| Habsburg years | Beginning of political activity | Internal exile | From fascism to the Italian Republic | Building the Italian Republic |
+| 1901-1918      | 1919-1926                        | 1927-1942      | 1943-1947                             | 1948-1954                      |
+2. *Fine-grained classification*: Participants will be asked to assign each document in the test set to one temporal slice of 5 years. Each document in the training set will be labeled with a temporal slice.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhfbk/DaDoEval_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
