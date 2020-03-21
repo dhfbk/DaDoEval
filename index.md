@@ -1,6 +1,6 @@
 ## Dating Document Evaluation
 
-![](DaDoEval200.png)
+![](DaDoEval-grigio.png)
 
 - [Subtasks](#subtasks)
 - [Data and Annotation Description](#data-and-annotation-description)
