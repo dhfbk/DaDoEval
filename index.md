@@ -13,6 +13,8 @@ Along this line, we proposed our task taking Alcide De Gasperi’s corpus of pub
 
 In is important to note that this is a novel task for the Italian community, and therefore participating systems should be built from scratch. 
 
+The organizers rely on the honesty of all participants who might have some prior knowledge of part of the data that will be used for evaluation, not to unfairly use such knowledge.
+
 ### Subtasks
 
 DaDoEval will include two sub-tasks on the same test set:
