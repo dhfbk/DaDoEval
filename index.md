@@ -52,6 +52,8 @@ For example: *1_inDomain_fbk_1* would be the first run of a team called *fbk* fo
 - Rachele Sprugnoli (Università Cattolica del Sacro Cuore di Milano)
 - Sara Tonelli (Fondazione Bruno Kessler)
 
+Do you have doubts or questions? Join our GoogleGroup [https://groups.google.com/forum/embed/?place=forum/dadoeval_2020](https://groups.google.com/forum/embed/?place=forum/dadoeval_2020).
+
 
 ### References
 - Graliński, F., Jaworski, R., Borchmann, Ł., & Wierzchoń, P. (2017). The RetroC challenge: how to guess the publication year of a text?. In Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage, pp. 29-34.
