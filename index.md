@@ -41,15 +41,15 @@ Since we aim to propose a supervised task, the corpus will be split into a train
 In addition to the in-domain test set, we will also provide a cross-genre out-of-domain test set of around 100 letters, written by De Gasperi in the same time span of the corpus of public documents within the Epistolario project (Tonelli et al., 2020). This out-of-domain test set would allow DaDoEval organisers to evaluate the robustness of the proposed approaches, and measure how the specific characteristics of correspondence affect the dating process. For both corpora, there are no privacy issues and the documents can be made freely to task participants.
 
 ### Evaluation
-Final results will be calculated in terms of accuracy and precision.
+Final results will be calculated in terms of accuracy and precision. The evaluation script will be released together with the training data.
 
 ### How to participate
-Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
+Participants are required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
 
 Once the system has produced the results for the task over the test set, participants have to follow these instructions for completing your submission:
 - name the runs with the following filename format: *subtask_teamName_runID*.
 For example: *1_fbk_1* would be the first run of a team called *fbk* for the first sub-task whereas *4_fbk_2* would be the second run of a team called *fbk* for the fourth sub-task.
-- send the file to the following email address: menini@fbk.eu, using the subject “DaDoEval Submission: teamName”.
+- send the runs to the following email address: menini@fbk.eu, using the subject “DaDoEval Submission: teamName”.
 
 ### Organizers
 - Stefano Menini (Fondazione Bruno Kessler) 
