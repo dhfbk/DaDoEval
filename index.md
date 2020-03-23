@@ -42,7 +42,7 @@ Participants will be required to submit their runs and to provide a technical re
 Once the system has produced the results for the task over the test set, participants have to follow these instructions for completing your submission:
 - name the runs with the following filename format: *subtask_domainType_teamName_systemID*.
 For example: *1_inDomain_fbk_1* would be the first run of a team called *fbk* for the first sub-task with the in-domain data. *2_outDomain_fbk_1* would be the second run of a team called *fbk* for the second sub-task with the out-of-domain data.
-- send the file to the following email address: XXX, using the subject “DaDoEval Submission: teamName”.
+- send the file to the following email address: menini@fbk.eu, using the subject “DaDoEval Submission: teamName”.
 
 ### Organizers
 - Stefano Menini (Fondazione Bruno Kessler) 
