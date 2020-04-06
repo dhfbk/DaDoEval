@@ -6,6 +6,7 @@
 - [Data and Annotation Description](#data-and-annotation-description)
 - [Evaluation](#evaluation)
 - [How to participate](#how-to-participate)
+- [Important Dates](#important-dates)
 - [References](#references)
 
 In the context of [EVALITA 2020](http://www.evalita.it/2020), we propose the task of assigning a temporal span to a document, i.e. recognising when a document was issued. The task has already been addressed in other languages, namely French, English, Polish, also in the framework of shared tasks, see for example the DÉfi Fouille de Textes (DEFT) 2010 and 2011 challenges (Grouin, 2010; Grouin, 2011), the SemEval-2015 task on Diachronic Text Evaluation (Popescu and Strapparava, 2015) and the RetroC challenge (Graliński, 2017). This task is relevant because it can play a role in document retrieval, summarisation, event detection, etc. It is also an important task per se, since it can be used to process large archival collections. In particular, when some documents in a collection have not been dated, supervised approaches could be applied to learn from the documents with a date which time span can be assigned to those who are not provided with temporal metadata.
@@ -50,6 +51,14 @@ Once the system has produced the results for the task over the test set, partici
 - name the runs with the following filename format: *subtask_teamName_runID*.
 For example: *1_fbk_1* would be the first run of a team called *fbk* for the first sub-task whereas *4_fbk_2* would be the second run of a team called *fbk* for the fourth sub-task.
 - send the runs to the following email address: menini@fbk.eu, using the subject “DaDoEval Submission: teamName”.
+
+### Important Dates
+- 6th April 2020: [registration opens](http://www.evalita.it/2020/taskregistration)
+- 29th May 2020: development data available to participants
+- 4th September 2020: registration closes
+- 11th Sept. 2020: Evaluation Window 
+- 6th November 2020: technical reports due to organizers - TENTATIVE
+- 2nd-3rd December 2020: final workshop
 
 ### Organizers
 - Stefano Menini (Fondazione Bruno Kessler) 
