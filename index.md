@@ -56,7 +56,7 @@ For example: *1_fbk_1* would be the first run of a team called *fbk* for the fir
 - 6th April 2020: [registration opens](http://www.evalita.it/2020/taskregistration)
 - 29th May 2020: development data available to participants
 - 4th September 2020: registration closes
-- 11th Sept. 2020: Evaluation Window 
+- 4th-11th Sept. 2020: evaluation window and collection of participants' results 
 - 6th November 2020: technical reports due to organizers - TENTATIVE
 - 2nd-3rd December 2020: final workshop
 
