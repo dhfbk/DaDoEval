@@ -1,8 +1,5 @@
 ## Dating Document Evaluation at EVALITA 2020
 
-### News
-- 29 May 2020: [Training data](https://github.com/dhfbk/DaDoEval/blob/master/DadoEval2020-Train.zip) released!
-
 ![](DaDoEval-grigio.png)
 
 - [Sub-tasks](#sub-tasks)
@@ -46,11 +43,15 @@ Since we aim to propose a supervised task, the corpus will be split into a train
 
 In addition to the in-domain test set, we will also provide a cross-genre out-of-domain test set of around 100 letters, written by De Gasperi in the same time span of the corpus of public documents within the Epistolario project (Tonelli et al., 2020). This out-of-domain test set would allow DaDoEval organisers to evaluate the robustness of the proposed approaches, and measure how the specific characteristics of correspondence affect the dating process. For both corpora, there are no privacy issues and the documents can be made freely to task participants.
 
+**[Training data](https://github.com/dhfbk/DaDoEval/blob/master/DadoEval2020-Train.zip) released!**
+
 ### Evaluation
 Final results will be calculated in terms of accuracy and precision. The evaluation script will be released together with the training data.
 
 ### How to participate
 Participants are required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
+
+Runs should be a TSV file with fields delimited by a tab and it should follow the same format of the training dataset.
 
 Once the system has produced the results for the task over the test set, participants have to follow these instructions for completing your submission:
 - name the runs with the following filename format: *subtask_teamName_runID*.
