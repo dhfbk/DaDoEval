@@ -46,12 +46,33 @@ In addition to the in-domain test set, we will also provide a cross-genre out-of
 **[Training data](https://github.com/dhfbk/DaDoEval/blob/master/DadoEval2020-Train.zip) released!**
 
 ### Evaluation
-Final results will be calculated in terms of accuracy and precision. The evaluation script will be released together with the training data.
+Final results will be calculated in terms of **macro-average F1**. 
+
+The evaluation script is available: [DaDoEval_Eval.py](https://github.com/dhfbk/DaDoEval/blob/master/DaDoEval_Eval.py).
+```
+usage: DaDoEval_Eval.py [-h] --gold_file GOLD_FILE --system_file SYSTEM_FILE
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --gold_file GOLD_FILE
+                        Path to the TSV file with the gold data.
+  --system_file SYSTEM_FILE
+                        Path to the TSV file or folder containig TSV files
+                        with the predicated data.
+```
+#### Baseline
+As a baseline, we provide the scores obtained on same-genre test data adopting the same LogisticRegression configuration for each of the three subtasks. As features to represent the text we calculated the tf-idf for each term (unigram) in the dataset. The tf-idf is computed without removing stopwords or performing any preprocessing on the documents.
+
+| SUB-TASK          | Macro-Average F1 |
+|-------------------|------------------|
+| 1) Coarse-grained | 0.827            |
+| 3) Fine-grained   | 0.485            |
+| 5) Year-based     | 0.126            |
 
 ### How to participate
 Participants are required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
 
-Runs should be a TSV file with fields delimited by a tab and it should follow the same format of the training dataset.
+Runs should be a TSV file with fields delimited by a tab and it should follow the same format of the training dataset. No missing data are allowed: a class should be predicted for each document in the test set.
 
 Once the system has produced the results for the task over the test set, participants have to follow these instructions for completing your submission:
 - name the runs with the following filename format: *subtask_teamName_runID*.
