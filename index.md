@@ -82,8 +82,9 @@ For example: *1_fbk_1* would be the first run of a team called *fbk* for the fir
 ### Important Dates
 - 6th April 2020: [registration opens](http://www.evalita.it/2020/taskregistration)
 - 29th May 2020: [training data](https://github.com/dhfbk/DaDoEval/blob/master/DadoEval2020-Train.zip) available to participants
+- 2nd July: [scorer](https://github.com/dhfbk/DaDoEval/blob/master/DaDoEval_Eval.py) released
 - 4th September 2020: registration closes
-- 4th-11th Sept. 2020: evaluation window and collection of participants' results 
+- 4th-11th September 2020: evaluation window and collection of participants' results 
 - 6th November 2020: technical reports due to organizers - TENTATIVE
 - 2nd-3rd December 2020: final workshop
 
