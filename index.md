@@ -49,17 +49,17 @@ In addition to the in-domain test set, we will also provide a cross-genre out-of
 Final results will be calculated in terms of **macro-average F1**. 
 
 The evaluation script is available: [DaDoEval_Eval.py](https://github.com/dhfbk/DaDoEval/blob/master/DaDoEval_Eval.py).
-`
-usage: DaDoEval_Eval.py [-h] --gold_file GOLD_FILE --system_file SYSTEM_FILE
 
-optional arguments:
-  -h, --help            show this help message and exit
-  --gold_file GOLD_FILE
+    usage: DaDoEval_Eval.py [-h] --gold_file GOLD_FILE --system_file SYSTEM_FILE
+
+    optional arguments:
+      -h, --help            show this help message and exit
+      --gold_file GOLD_FILE
                         Path to the TSV file with the gold data.
-  --system_file SYSTEM_FILE
+      --system_file SYSTEM_FILE
                         Path to the TSV file or folder containig TSV files
                         with the predicated data.
-`
+
 #### Baseline
 As a baseline, we provide the scores obtained on same-genre test data adopting the same LogisticRegression configuration for each of the three subtasks. As features to represent the text we calculated the tf-idf for each term (unigram) in the dataset. The tf-idf is computed without removing stopwords or performing any preprocessing on the documents.
 
