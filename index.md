@@ -88,7 +88,7 @@ For example: *1_fbk_1* would be the first run of a team called *fbk* for the fir
 - 16th October: deadline for submission of system description papers
 - 6th November 2020: technical reports due to organizers (camera-ready)
 - 27th November 2020: videos presentations to the EVALITA 2020 chair
-- 16th-17th December 2020: final workshop
+- 16th-17th December 2020: final workshop online
 
 ### Organizers
 - Stefano Menini (Fondazione Bruno Kessler) 
