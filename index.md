@@ -72,6 +72,8 @@ As a baseline, we provide the scores obtained on same-genre test data adopting t
 ### How to participate
 Participants are required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
 
+Each participant can submit up to **2 runs** for each sub-task. 
+
 Runs should be a TSV file with fields delimited by a tab and it should follow the same format of the training dataset. No missing data are allowed: a class should be predicted for each document in the test set.
 
 Once the system has produced the results for the task over the test set, participants have to follow these instructions for completing your submission:
