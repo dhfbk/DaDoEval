@@ -43,7 +43,9 @@ Since we aim to propose a supervised task, the corpus will be split into a train
 
 In addition to the in-domain test set, we will also provide a cross-genre out-of-domain test set of around 100 letters, written by De Gasperi in the same time span of the corpus of public documents within the Epistolario project (Tonelli et al., 2020). This out-of-domain test set would allow DaDoEval organisers to evaluate the robustness of the proposed approaches, and measure how the specific characteristics of correspondence affect the dating process. For both corpora, there are no privacy issues and the documents can be made freely to task participants.
 
-**[Training data](https://github.com/dhfbk/DaDoEval/blob/master/DadoEval2020-Train.zip) released!**
+- **[Training data](https://github.com/dhfbk/DaDoEval/blob/master/DadoEval2020-Train.zip)**
+- **[Test data](https://github.com/dhfbk/DaDoEval/tree/master/Test_Release)**
+- **[Gold test data](https://github.com/dhfbk/DaDoEval/tree/master/Gold-test)**
 
 ### Evaluation
 Final results will be calculated in terms of **macro-average F1**. 
