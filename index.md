@@ -37,7 +37,7 @@ The aforementioned sub-tasks can be addressed in several ways. For example, rese
 | 1901-1918      | 1919-1926                        | 1927-1942      | 1943-1947                             | 1948-1954                      |
 
 ### Data and Annotation Description
-The corpus contains 2,762 documents, manually tagged with a date, written by De Gasperi and issued between 1901 and 1954. 
+The corpus contains 2,759 documents, manually tagged with a date, written by De Gasperi and issued between 1901 and 1954. 
 All the documents have been issued by the same person, thus removing the effects that different author styles can have on the dating process
 Since we aim to propose a supervised task, the corpus will be split into a training and a test set.
 
