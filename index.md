@@ -7,6 +7,9 @@
 - [Evaluation](#evaluation)
 - [How to participate](#how-to-participate)
 - [Important Dates](#important-dates)
+- [Workshop](#workshop)
+- [Videos](#videos)
+- [Organizers](#organizers)
 - [How to Cite DaDoEval 2020](#howtocite)
 - [References](#references)
 
@@ -104,6 +107,9 @@ We are planning to use this moment as follows:
 - participants' presentations to highlight their approach (max 5 min each)
 - discussion on systems and task (what worked, what did not work, what can be improved)
 - quiz time! 
+
+### Videos
+Video presentations are online on [Vimeo](https://vimeo.com/showcase/7880427).
 
 ### Organizers
 - Stefano Menini (Fondazione Bruno Kessler) 
