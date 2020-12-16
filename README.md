@@ -1,0 +1,2 @@
+When using the dataset of DaDoEval 2020, please cite the following paper:
+- Menini, S., Moretti, G., Sprugnoli, R., and Tonelli, S. 2020. DaDoEval @ EVALITA 2020: Same-Genre and Cross-Genre Dating of Historical Documents. In Proceedings of Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2020). ([PDF](http://ceur-ws.org/Vol-2765/paper152.pdf))
