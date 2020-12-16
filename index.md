@@ -93,7 +93,17 @@ For example: *1_fbk_1* would be the first run of a team called *fbk* for the fir
 - 16th October: deadline for submission of system description papers
 - 6th November 2020: technical reports due to organizers (camera-ready)
 - 27th November 2020: videos presentations to the EVALITA 2020 chair
-- 16th-17th December 2020: final workshop online
+- 17th December 2020: final workshop online
+
+### Workshop
+Full program and links to each task room of EVALITA 2020: [http://www.evalita.it/2020/program](http://www.evalita.it/2020/program)
+
+On 17th December 2020, 10-11 AM (CET), we will have the chance to discuss online the task and its outcomes.
+We are planning to use this moment as follows:
+- task overview presentation (max 5 min)
+- participants' presentations to highlight their approach (max 5 min each)
+- discussion on systems and task (what worked, what did not work, what can be improved)
+- quiz time! 
 
 ### Organizers
 - Stefano Menini (Fondazione Bruno Kessler) 
@@ -102,7 +112,7 @@ For example: *1_fbk_1* would be the first run of a team called *fbk* for the fir
 - Sara Tonelli (Fondazione Bruno Kessler)
 
 ### How to cite
-Menini, S., Moretti, G., Sprugnoli, R., and Tonelli, S. 2020. DaDoEval @ EVALITA 2020: Same-Genre and Cross-Genre Dating of Historical Documents. In Proceedings of Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2020). ([PDF](http://ceur-ws.org/Vol-2765/paper152.pdf))
+- Menini, S., Moretti, G., Sprugnoli, R., and Tonelli, S. 2020. DaDoEval @ EVALITA 2020: Same-Genre and Cross-Genre Dating of Historical Documents. In Proceedings of Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2020). ([PDF](http://ceur-ws.org/Vol-2765/paper152.pdf))
 
 ### References
 - Graliński, F., Jaworski, R., Borchmann, Ł., & Wierzchoń, P. (2017). The RetroC challenge: how to guess the publication year of a text?. In Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage, pp. 29-34.
