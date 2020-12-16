@@ -7,7 +7,7 @@
 - [Evaluation](#evaluation)
 - [How to participate](#how-to-participate)
 - [Important Dates](#important-dates)
-- [How to Cite](#howtocite)
+- [How to Cite DaDoEval 2020](#howtocite)
 - [References](#references)
 
 In the context of [EVALITA 2020](http://www.evalita.it/2020), we propose the task of assigning a temporal span to a document, i.e. recognising when a document was issued. The task has already been addressed in other languages, namely French, English, Polish, also in the framework of shared tasks, see for example the DÉfi Fouille de Textes (DEFT) 2010 and 2011 challenges (Grouin, 2010; Grouin, 2011), the SemEval-2015 task on Diachronic Text Evaluation (Popescu and Strapparava, 2015) and the RetroC challenge (Graliński, 2017). This task is relevant because it can play a role in document retrieval, summarisation, event detection, etc. It is also an important task per se, since it can be used to process large archival collections. In particular, when some documents in a collection have not been dated, supervised approaches could be applied to learn from the documents with a date which time span can be assigned to those who are not provided with temporal metadata.
@@ -111,7 +111,7 @@ We are planning to use this moment as follows:
 - Rachele Sprugnoli (Università Cattolica del Sacro Cuore di Milano)
 - Sara Tonelli (Fondazione Bruno Kessler)
 
-### How to cite
+### How to Cite DaDoEval 2020
 - Menini, S., Moretti, G., Sprugnoli, R., and Tonelli, S. 2020. DaDoEval @ EVALITA 2020: Same-Genre and Cross-Genre Dating of Historical Documents. In Proceedings of Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2020). ([PDF](http://ceur-ws.org/Vol-2765/paper152.pdf))
 
 ### References
